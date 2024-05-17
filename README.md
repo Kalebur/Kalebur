@@ -4,7 +4,7 @@ I'm a web developer with a passion for building interactive user experiences. I 
 I'm also extremely interested in game development, both the art and coding side of things, and am currently learning the Unity game engine and Blender for creating art assets.
 
 ### Currently Learning
-- Python
+- C#/.NET
 - React
 - Data Structures and Algorithms
 
