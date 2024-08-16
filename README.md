@@ -6,7 +6,7 @@ I'm also extremely interested in game development, both the art and coding side 
 ### Currently Learning
 - C#/.NET
 - React
-- Data Structures and Algorithms
+- Testing with Selenium
 
 <!---
 Kalebur/Kalebur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
